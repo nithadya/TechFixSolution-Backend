@@ -1,0 +1,31 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "TechFixSolution.AuthServices\\TechFixSolution.AuthServices.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TechFixSolution.QuotationServices\\TechFixSolution.QuotationServices.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TechFixSolution.OrderServices\\TechFixSolution.OrderServices.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TechFixSolution.PaymentServices\\TechFixSolution.PaymentServices.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TechFixSolution.API-Gateways\\TechFixSolution.API-Gateways.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TechFixSolution.InventoryServices\\TechFixSolution.InventoryServices.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
